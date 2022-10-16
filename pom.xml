@@ -30,7 +30,7 @@
         <plugin.rsc>${basedir}/resources/plugins</plugin.rsc>
         
         <!--dependencies-->
-        <tika.version>1.26</tika.version>
+        <tika.version>2.0.0</tika.version>
         <lucene.version>9.0.0</lucene.version>
         <sleuthkit.version>4.6.5-p05</sleuthkit.version>
         <libreoffice.version>7.2.2</libreoffice.version>
